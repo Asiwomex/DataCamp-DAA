@@ -1,4 +1,4 @@
-# Practical Exam: Grocery Store Sales
+# DataCamp Data Analyst Associate Practical Exam: FoodYum Grocery Store Sales
 
 FoodYum is a grocery store chain that is based in the United States.
 Food Yum sells items such as produce, meat, dairy, baked goods, snacks, and other household food staples.
